@@ -1,0 +1,1353 @@
+[
+   {
+      "dict": [
+         "g"
+      ],
+      "inflected": "gs"
+   },
+   {
+      "dict": [
+         "g"
+      ],
+      "inflected": "gged"
+   },
+   {
+      "dict": [
+         "g"
+      ],
+      "inflected": "gging"
+   },
+   {
+      "dict": [
+         "x",
+         "xis"
+      ],
+      "inflected": "xes"
+   },
+   {
+      "dict": [
+         "x"
+      ],
+      "inflected": "xed"
+   },
+   {
+      "dict": [
+         "x"
+      ],
+      "inflected": "xing"
+   },
+   {
+      "dict": [
+         "p"
+      ],
+      "inflected": "ps"
+   },
+   {
+      "dict": [
+         "p"
+      ],
+      "inflected": "pped"
+   },
+   {
+      "dict": [
+         "p"
+      ],
+      "inflected": "pping"
+   },
+   {
+      "dict": [
+         "m"
+      ],
+      "inflected": "ms"
+   },
+   {
+      "dict": [
+         "m"
+      ],
+      "inflected": "mmed"
+   },
+   {
+      "dict": [
+         "m"
+      ],
+      "inflected": "mming"
+   },
+   {
+      "dict": [
+         "n"
+      ],
+      "inflected": "ns"
+   },
+   {
+      "dict": [
+         "n"
+      ],
+      "inflected": "nned"
+   },
+   {
+      "dict": [
+         "n"
+      ],
+      "inflected": "nning"
+   },
+   {
+      "dict": [
+         "t"
+      ],
+      "inflected": "ts"
+   },
+   {
+      "dict": [
+         "t"
+      ],
+      "inflected": "tted"
+   },
+   {
+      "dict": [
+         "t"
+      ],
+      "inflected": "tting"
+   },
+   {
+      "dict": [
+         "k"
+      ],
+      "inflected": "ks"
+   },
+   {
+      "dict": [
+         "k"
+      ],
+      "inflected": "ked"
+   },
+   {
+      "dict": [
+         "k"
+      ],
+      "inflected": "king"
+   },
+   {
+      "dict": [
+         "e"
+      ],
+      "inflected": "es"
+   },
+   {
+      "dict": [
+         "ise"
+      ],
+      "inflected": "ose"
+   },
+   {
+      "dict": [
+         "e"
+      ],
+      "inflected": "ing"
+   },
+   {
+      "dict": [
+         "e"
+      ],
+      "inflected": "en"
+   },
+   {
+      "dict": [
+         "ake",
+         "eak"
+      ],
+      "inflected": "oke"
+   },
+   {
+      "dict": [
+         "e"
+      ],
+      "inflected": "ed"
+   },
+   {
+      "dict": [
+         "ake",
+         "eak"
+      ],
+      "inflected": "oken"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "rs"
+   },
+   {
+      "dict": [
+         "ear"
+      ],
+      "inflected": "ore"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "ring"
+   },
+   {
+      "dict": [
+         "ear"
+      ],
+      "inflected": "orne"
+   },
+   {
+      "dict": [
+         "ear"
+      ],
+      "inflected": "orn"
+   },
+   {
+      "dict": [
+         "t"
+      ],
+      "inflected": "ting"
+   },
+   {
+      "dict": [
+         "t",
+         "e"
+      ],
+      "inflected": "ten"
+   },
+   {
+      "dict": [
+         "ome"
+      ],
+      "inflected": "ame"
+   },
+   {
+      "dict": [
+         "in",
+         "un"
+      ],
+      "inflected": "an"
+   },
+   {
+      "dict": [
+         "n"
+      ],
+      "inflected": "ning"
+   },
+   {
+      "dict": [
+         "in"
+      ],
+      "inflected": "un"
+   },
+   {
+      "dict": [
+         "nd"
+      ],
+      "inflected": "gin"
+   },
+   {
+      "dict": [
+         "nd"
+      ],
+      "inflected": "gins"
+   },
+   {
+      "dict": [
+         "nd"
+      ],
+      "inflected": "gan"
+   },
+   {
+      "dict": [
+         "nd"
+      ],
+      "inflected": "gining"
+   },
+   {
+      "dict": [
+         "nd"
+      ],
+      "inflected": "gun"
+   },
+   {
+      "dict": [
+         "d"
+      ],
+      "inflected": "ds"
+   },
+   {
+      "dict": [
+         "ind"
+      ],
+      "inflected": "ound"
+   },
+   {
+      "dict": [
+         "d"
+      ],
+      "inflected": "ding"
+   },
+   {
+      "dict": [
+         "te",
+         "d",
+         "ght",
+         "e",
+         "et",
+         "ot",
+         "l"
+      ],
+      "inflected": "t"
+   },
+   {
+      "dict": [
+         "ed",
+         "e",
+         "ve",
+         "de",
+         "ad"
+      ],
+      "inflected": "d"
+   },
+   {
+      "dict": [
+         "w"
+      ],
+      "inflected": "ws"
+   },
+   {
+      "dict": [
+         "ow",
+         "aw",
+         "y",
+         "ay"
+      ],
+      "inflected": "ew"
+   },
+   {
+      "dict": [
+         "w"
+      ],
+      "inflected": "wing"
+   },
+   {
+      "dict": [
+         "w"
+      ],
+      "inflected": "wn"
+   },
+   {
+      "dict": [
+         "ing",
+         "uy",
+         "ight",
+         "eek"
+      ],
+      "inflected": "ought"
+   },
+   {
+      "dict": [
+         "g"
+      ],
+      "inflected": "ging"
+   },
+   {
+      "dict": [
+         "n"
+      ],
+      "inflected": "nt"
+   },
+   {
+      "dict": [
+         "n"
+      ],
+      "inflected": "ned"
+   },
+   {
+      "dict": [
+         "y"
+      ],
+      "inflected": "ys"
+   },
+   {
+      "dict": [
+         "y",
+         "ie"
+      ],
+      "inflected": "ying"
+   },
+   {
+      "dict": [
+         "h"
+      ],
+      "inflected": "hes"
+   },
+   {
+      "dict": [
+         "tch"
+      ],
+      "inflected": "ught"
+   },
+   {
+      "dict": [
+         "h"
+      ],
+      "inflected": "hing"
+   },
+   {
+      "dict": [
+         "ose"
+      ],
+      "inflected": "se"
+   },
+   {
+      "dict": [
+         "ose"
+      ],
+      "inflected": "sen"
+   },
+   {
+      "dict": [
+         "ing",
+         "ang"
+      ],
+      "inflected": "ung"
+   },
+   {
+      "dict": [
+         "ep",
+         "p"
+      ],
+      "inflected": "pt"
+   },
+   {
+      "dict": [
+         "p"
+      ],
+      "inflected": "ping"
+   },
+   {
+      "dict": [
+         "l"
+      ],
+      "inflected": "ls"
+   },
+   {
+      "dict": [
+         "l",
+         "el"
+      ],
+      "inflected": "lt"
+   },
+   {
+      "dict": [
+         "l"
+      ],
+      "inflected": "ling"
+   },
+   {
+      "dict": [
+         "ig"
+      ],
+      "inflected": "ug"
+   },
+   {
+      "dict": [
+         "ive",
+         "eave"
+      ],
+      "inflected": "ove"
+   },
+   {
+      "dict": [
+         "o"
+      ],
+      "inflected": "oes"
+   },
+   {
+      "dict": [
+         "o",
+         "y"
+      ],
+      "inflected": "id"
+   },
+   {
+      "dict": [
+         "o"
+      ],
+      "inflected": "oing"
+   },
+   {
+      "dict": [
+         "o",
+         "ine"
+      ],
+      "inflected": "one"
+   },
+   {
+      "dict": [
+         "m"
+      ],
+      "inflected": "mt"
+   },
+   {
+      "dict": [
+         "m"
+      ],
+      "inflected": "med"
+   },
+   {
+      "dict": [
+         "m"
+      ],
+      "inflected": "ming"
+   },
+   {
+      "dict": [
+         "ink"
+      ],
+      "inflected": "ank"
+   },
+   {
+      "dict": [
+         "ink"
+      ],
+      "inflected": "unk"
+   },
+   {
+      "dict": [
+         "eat"
+      ],
+      "inflected": "ate"
+   },
+   {
+      "dict": [
+         "all"
+      ],
+      "inflected": "ell"
+   },
+   {
+      "dict": [
+         "l"
+      ],
+      "inflected": "len"
+   },
+   {
+      "dict": [
+         "e"
+      ],
+      "inflected": "eing"
+   },
+   {
+      "dict": [
+         "y"
+      ],
+      "inflected": "ies"
+   },
+   {
+      "dict": [
+         "y"
+      ],
+      "inflected": "own"
+   },
+   {
+      "dict": [
+         "id"
+      ],
+      "inflected": "ade"
+   },
+   {
+      "dict": [
+         "d"
+      ],
+      "inflected": "dden"
+   },
+   {
+      "dict": [
+         "et"
+      ],
+      "inflected": "ot"
+   },
+   {
+      "dict": [
+         "et"
+      ],
+      "inflected": "otten"
+   },
+   {
+      "dict": [
+         "go"
+      ],
+      "inflected": "went"
+   },
+   {
+      "dict": [
+         "ive"
+      ],
+      "inflected": "ave"
+   },
+   {
+      "dict": [
+         "ake"
+      ],
+      "inflected": "ook"
+   },
+   {
+      "dict": [
+         "ell"
+      ],
+      "inflected": "old"
+   },
+   {
+      "dict": [
+         "eeze"
+      ],
+      "inflected": "oze"
+   },
+   {
+      "dict": [
+         "eeze"
+      ],
+      "inflected": "ozen"
+   },
+   {
+      "dict": [
+         "ve"
+      ],
+      "inflected": "s"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "rd"
+   },
+   {
+      "dict": [
+         "e"
+      ],
+      "inflected": "den"
+   },
+   {
+      "dict": [
+         "old"
+      ],
+      "inflected": "eld"
+   },
+   {
+      "dict": [
+         "l"
+      ],
+      "inflected": "led"
+   },
+   {
+      "dict": [
+         "p"
+      ],
+      "inflected": "ped"
+   },
+   {
+      "dict": [
+         "ave"
+      ],
+      "inflected": "ft"
+   },
+   {
+      "dict": [
+         "ie"
+      ],
+      "inflected": "ay"
+   },
+   {
+      "dict": [
+         "ie"
+      ],
+      "inflected": "ain"
+   },
+   {
+      "dict": [
+         "t"
+      ],
+      "inflected": "ted"
+   },
+   {
+      "dict": [
+         "ke"
+      ],
+      "inflected": "de"
+   },
+   {
+      "dict": [
+         "w"
+      ],
+      "inflected": "wed"
+   },
+   {
+      "dict": [
+         "ide"
+      ],
+      "inflected": "ode"
+   },
+   {
+      "dict": [
+         "ing"
+      ],
+      "inflected": "ang"
+   },
+   {
+      "dict": [
+         "ee"
+      ],
+      "inflected": "aw"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "red"
+   },
+   {
+      "dict": [
+         "ite"
+      ],
+      "inflected": "ote"
+   },
+   {
+      "dict": [
+         "d"
+      ],
+      "inflected": "ded"
+   },
+   {
+      "dict": [
+         "ike"
+      ],
+      "inflected": "uck"
+   },
+   {
+      "dict": [
+         "im"
+      ],
+      "inflected": "am"
+   },
+   {
+      "dict": [
+         "im"
+      ],
+      "inflected": "um"
+   },
+   {
+      "dict": [
+         "each"
+      ],
+      "inflected": "aught"
+   },
+   {
+      "dict": [
+         "ead"
+      ],
+      "inflected": "od"
+   },
+   {
+      "dict": [
+         "ead"
+      ],
+      "inflected": "odden"
+   },
+   {
+      "dict": [
+         "and"
+      ],
+      "inflected": "ood"
+   },
+   {
+      "dict": [
+         "eave"
+      ],
+      "inflected": "oven"
+   },
+   {
+      "dict": [
+         "in"
+      ],
+      "inflected": "on"
+   },
+   {
+      "dict": [
+         "y"
+      ],
+      "inflected": "yed"
+   },
+   {
+      "dict": [
+         "y"
+      ],
+      "inflected": "y?"
+   },
+   {
+      "dict": [
+         "y"
+      ],
+      "inflected": "ying?"
+   },
+   {
+      "dict": [
+         "y"
+      ],
+      "inflected": "yed?"
+   },
+   {
+      "dict": [
+         "y"
+      ],
+      "inflected": "ied"
+   },
+   {
+      "dict": [
+         "y"
+      ],
+      "inflected": "ied?"
+   },
+   {
+      "dict": [
+         "h"
+      ],
+      "inflected": "hed"
+   },
+   {
+      "dict": [
+         "h"
+      ],
+      "inflected": "h?"
+   },
+   {
+      "dict": [
+         "h"
+      ],
+      "inflected": "hing?"
+   },
+   {
+      "dict": [
+         "h"
+      ],
+      "inflected": "hed?"
+   },
+   {
+      "dict": [
+         "y"
+      ],
+      "inflected": "in"
+   },
+   {
+      "dict": [
+         "oot"
+      ],
+      "inflected": "eet"
+   },
+   {
+      "dict": [
+         "ct"
+      ],
+      "inflected": "ctly"
+   },
+   {
+      "dict": [
+         "ouse"
+      ],
+      "inflected": "ice"
+   },
+   {
+      "dict": [
+         "eus"
+      ],
+      "inflected": "ei"
+   },
+   {
+      "dict": [
+         "oose"
+      ],
+      "inflected": "eese"
+   },
+   {
+      "dict": [
+         "ss"
+      ],
+      "inflected": "sses"
+   },
+   {
+      "dict": [
+         "s",
+         "se",
+         "sis"
+      ],
+      "inflected": "ses"
+   },
+   {
+      "dict": [
+         "sh"
+      ],
+      "inflected": "shes"
+   },
+   {
+      "dict": [
+         "ge"
+      ],
+      "inflected": "ges"
+   },
+   {
+      "dict": [
+         "tch"
+      ],
+      "inflected": "tches"
+   },
+   {
+      "dict": [
+         "t"
+      ],
+      "inflected": "tly"
+   },
+   {
+      "dict": [
+         "t"
+      ],
+      "inflected": "test"
+   },
+   {
+      "dict": [
+         "t"
+      ],
+      "inflected": "ter"
+   },
+   {
+      "dict": [
+         "ck"
+      ],
+      "inflected": "ckly"
+   },
+   {
+      "dict": [
+         "th"
+      ],
+      "inflected": "thly"
+   },
+   {
+      "dict": [
+         "ff"
+      ],
+      "inflected": "ffs"
+   },
+   {
+      "dict": [
+         "y"
+      ],
+      "inflected": "ily"
+   },
+   {
+      "dict": [
+         "rl"
+      ],
+      "inflected": "rls"
+   },
+   {
+      "dict": [
+         "air"
+      ],
+      "inflected": "airs"
+   },
+   {
+      "dict": [
+         "o"
+      ],
+      "inflected": "os"
+   },
+   {
+      "dict": [
+         "ey"
+      ],
+      "inflected": "eys"
+   },
+   {
+      "dict": [
+         "ay"
+      ],
+      "inflected": "ays"
+   },
+   {
+      "dict": [
+         "lf"
+      ],
+      "inflected": "lves"
+   },
+   {
+      "dict": [
+         "ife"
+      ],
+      "inflected": "ives"
+   },
+   {
+      "dict": [
+         "eaf"
+      ],
+      "inflected": "eaves"
+   },
+   {
+      "dict": [
+         "use"
+      ],
+      "inflected": "uses"
+   },
+   {
+      "dict": [
+         "arf"
+      ],
+      "inflected": "arves"
+   },
+   {
+      "dict": [
+         "oof"
+      ],
+      "inflected": "ooves"
+   },
+   {
+      "dict": [
+         "elf"
+      ],
+      "inflected": "elves"
+   },
+   {
+      "dict": [
+         "f"
+      ],
+      "inflected": "fs"
+   },
+   {
+      "dict": [
+         "urf"
+      ],
+      "inflected": "urves"
+   },
+   {
+      "dict": [
+         "x"
+      ],
+      "inflected": "xen"
+   },
+   {
+      "dict": [
+         "other"
+      ],
+      "inflected": "ethren"
+   },
+   {
+      "dict": [
+         "man"
+      ],
+      "inflected": "men"
+   },
+   {
+      "dict": [
+         "ooth"
+      ],
+      "inflected": "eeth"
+   },
+   {
+      "dict": [
+         "erson"
+      ],
+      "inflected": "eople"
+   },
+   {
+      "dict": [
+         "die"
+      ],
+      "inflected": "dice"
+   },
+   {
+      "dict": [
+         "penny"
+      ],
+      "inflected": "pence"
+   },
+   {
+      "dict": [
+         "na"
+      ],
+      "inflected": "nae"
+   },
+   {
+      "dict": [
+         "la"
+      ],
+      "inflected": "lae"
+   },
+   {
+      "dict": [
+         "edia"
+      ],
+      "inflected": "aedia"
+   },
+   {
+      "dict": [
+         "edia"
+      ],
+      "inflected": "edias"
+   },
+   {
+      "dict": [
+         "ex",
+         "ix"
+      ],
+      "inflected": "ices"
+   },
+   {
+      "dict": [
+         "lis"
+      ],
+      "inflected": "leis"
+   },
+   {
+      "dict": [
+         "dum"
+      ],
+      "inflected": "da"
+   },
+   {
+      "dict": [
+         "m"
+      ],
+      "inflected": "mly"
+   },
+   {
+      "dict": [
+         "lum"
+      ],
+      "inflected": "la"
+   },
+   {
+      "dict": [
+         "tum"
+      ],
+      "inflected": "ta"
+   },
+   {
+      "dict": [
+         "ium"
+      ],
+      "inflected": "ia"
+   },
+   {
+      "dict": [
+         "trum"
+      ],
+      "inflected": "tra"
+   },
+   {
+      "dict": [
+         "mnus"
+      ],
+      "inflected": "mni"
+   },
+   {
+      "dict": [
+         "ctus"
+      ],
+      "inflected": "cti"
+   },
+   {
+      "dict": [
+         "us"
+      ],
+      "inflected": "ora"
+   },
+   {
+      "dict": [
+         "cus"
+      ],
+      "inflected": "ci"
+   },
+   {
+      "dict": [
+         "bus"
+      ],
+      "inflected": "bi"
+   },
+   {
+      "dict": [
+         "lus"
+      ],
+      "inflected": "li"
+   },
+   {
+      "dict": [
+         "rus"
+      ],
+      "inflected": "ri"
+   },
+   {
+      "dict": [
+         "rion"
+      ],
+      "inflected": "ria"
+   },
+   {
+      "dict": [
+         "ena"
+      ],
+      "inflected": "enon"
+   },
+   {
+      "dict": [
+         "dron"
+      ],
+      "inflected": "dra"
+   },
+   {
+      "dict": [
+         "ma"
+      ],
+      "inflected": "mata"
+   },
+   {
+      "dict": [
+         "i"
+      ],
+      "inflected": "is"
+   },
+   {
+      "dict": [
+         "w"
+      ],
+      "inflected": "wly"
+   },
+   {
+      "dict": [
+         "ous"
+      ],
+      "inflected": "ously"
+   },
+   {
+      "dict": [
+         "ble"
+      ],
+      "inflected": "bly"
+   },
+   {
+      "dict": [
+         "st"
+      ],
+      "inflected": "stly"
+   },
+   {
+      "dict": [
+         "good"
+      ],
+      "inflected": "better"
+   },
+   {
+      "dict": [
+         "good"
+      ],
+      "inflected": "best"
+   },
+   {
+      "dict": [
+         "bad"
+      ],
+      "inflected": "worst"
+   },
+   {
+      "dict": [
+         "bad"
+      ],
+      "inflected": "worse"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "rer"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "rest"
+   },
+   {
+      "dict": [
+         "r"
+      ],
+      "inflected": "rly"
+   },
+   {
+      "dict": [
+         "ful"
+      ],
+      "inflected": "fully"
+   },
+   {
+      "dict": [
+         "d"
+      ],
+      "inflected": "dily"
+   },
+   {
+      "dict": [
+         "d"
+      ],
+      "inflected": "dly"
+   },
+   {
+      "dict": [
+         "d"
+      ],
+      "inflected": "dren"
+   },
+   {
+      "dict": [
+         "gh"
+      ],
+      "inflected": "ghly"
+   },
+   {
+      "dict": [
+         "cate"
+      ],
+      "inflected": "cately"
+   },
+   {
+      "dict": [
+         "ght"
+      ],
+      "inflected": "ghtly"
+   },
+   {
+      "dict": [
+         "ry"
+      ],
+      "inflected": "rily"
+   },
+   {
+      "dict": [
+         "k"
+      ],
+      "inflected": "kly"
+   },
+   {
+      "dict": [
+         "n"
+      ],
+      "inflected": "nly"
+   },
+   {
+      "dict": [
+         "l"
+      ],
+      "inflected": "lly"
+   },
+   {
+      "dict": [
+         "e"
+      ],
+      "inflected": "ely"
+   }
+]
